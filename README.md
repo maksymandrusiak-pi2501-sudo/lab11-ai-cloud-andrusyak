@@ -18,3 +18,10 @@
 
 ## Візуалізація даних
 ![Графіки аналізу комітів](commits_charts.png)
+
+## Використані технології
+* **Мова програмування:** Python 3
+* **Бібліотеки:** `pandas`, `matplotlib`
+* **Хмарне середовище:** Google Colaboratory
+* **AI-інструменти:** Gemini in Colab
+* **Контроль версій:** GitHub (Branches, Pull Requests)
