@@ -1,0 +1,15 @@
+commit_id,author,date,branch,files_changed,lines_added,lines_removed,net_lines
+c100,Andrusyak M.,2026-10-01,main,3,45,10,35
+c101,Kovalenko O.,2026-10-02,dev,5,120,30,90
+c102,Melnyk I.,2026-10-03,feature/login,2,34,5,29
+c103,Andrusyak M.,2026-10-03,dev,1,12,2,10
+c104,Shevchenko T.,2026-10-04,bugfix/api,4,89,40,49
+c105,Kovalenko O.,2026-10-05,main,6,210,85,125
+c106,Unknown,2026-10-06,dev,2,18,4,14
+c107,Melnyk I.,2026-10-07,feature/ui,3,65,12,53
+c108,Andrusyak M.,2026-10-08,main,3,50,15,35
+c109,Shevchenko T.,2026-10-09,bugfix/db,5,45,25,20
+c110,Kovalenko O.,2026-10-10,dev,1,15,3,12
+c111,Melnyk I.,2026-10-11,feature/login,4,95,20,75
+c112,Andrusyak M.,2026-10-12,main,2,30,8,22
+c113,Shevchenko T.,2026-10-13,dev,3,42,11,31
